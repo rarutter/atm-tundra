@@ -4,7 +4,7 @@
 # INFORMATION NEEDED TO SET UP THE SIMULATION
 #================================================================
 # Specify location of computer code on local computer
-Run_dir		/home/bob/Data/bob/Dropbox/SNAP/CSC/AIEM/Thermokarst/ATTM_Code/
+Run_dir		/home/vagrant/atm-tundra/
 #----------------------------------------------------------------
 # Data Input and Output Directories
 Input_dir				Input

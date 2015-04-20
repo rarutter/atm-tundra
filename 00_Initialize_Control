@@ -1,0 +1,42 @@
+############################################
+# Initial Cohort Information
+############################################
+Initial_Cohort_Distribution_Figure    No
+# ------------------------------------------
+# If figures are wanted, which cohorts?
+WetNPG_Figure		Yes
+WetLCP_Figure		Yes
+WetCLC_Figure		Yes
+WetFCP_Figure		Yes
+WetHCP_Figure		Yes
+Lakes_Figure		Yes
+Ponds_Figure		Yes
+Rivers_Figure		Yes
+Urban_Figure		Yes
+All_Cohorts_Figure	Yes
+############################################
+Normalized_Cohort_Distribution_Figure 	No
+#-------------------------------------------
+# If figures are wanted, which cohorts?
+WetNPG_Normal			Yes
+WetLCP_Normal			Yes
+WetCLC_Normal			Yes
+WetFCP_Normal			Yes
+WetHCP_Normal			Yes
+Lakes_Normal			Yes
+Ponds_Normal			Yes
+Rivers_Normal			Yes
+Urban_Normal			Yes
+Total_Cohorts_Normal		Yes
+##########################################
+Initial_Cohort_Age_Figure		No
+#-----------------------------------------
+# If figures are wanted, which cohorts
+WetNPG_Age				Yes
+WetLCP_Age				Yes
+WetCLC_Age				Yes
+WetFCP_Age				Yes
+WetHCP_Age				Yes
+Lakes_Age				Yes
+Ponds_Age				Yes
+##########################################
